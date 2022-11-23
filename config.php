@@ -14,6 +14,7 @@
 ; * [aliases] where you can configure shell aliases.
 ;
 ; * [settings] where general settings are placed.
+;
 
 
 [users]
